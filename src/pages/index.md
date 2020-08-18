@@ -1,5 +1,5 @@
 ---
 title: ArtBizTech
 intro:
-  heading: Some Headin
+  heading: "Some Heading "
 ---
